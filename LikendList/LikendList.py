@@ -136,10 +136,6 @@ class ManageLinkedList:
         print("Show List: ")
 
         my_linkedList.show()
-
-        """ print("Show reversed List: ")
-
-        my_linkedList.showReverse() """
         print("remove start and  remove End: ")
         """ my_linkedList.removeStart()
         my_linkedList.removeEnd() """
